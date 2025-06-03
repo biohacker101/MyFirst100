@@ -1,7 +1,9 @@
 # MyFirst100
 
 An intelligent AI agent that uses Claude AI to identify and engage with relevant discussions in Reddit in a helpful, authentic way.
+
 Demo Link: https://drive.google.com/file/d/1f8QN95pEjyqO_XAQOhxW0FvGWrCPOZ7z/view?usp=sharing
+
 Overview
 
 This agent monitors specified subreddits and uses Claude AI to:
