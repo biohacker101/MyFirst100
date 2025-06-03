@@ -1,4 +1,4 @@
-# pear-anthropic-hack-425
+# MyFirst100
 
 An intelligent AI agent that uses Claude AI to identify and engage with relevant discussions in Reddit in a helpful, authentic way.
 Overview
